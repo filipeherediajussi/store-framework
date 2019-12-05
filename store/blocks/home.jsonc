@@ -87,7 +87,7 @@
   "responsive-layout.mobile#mobile": {
     "children": [
       "rich-text#mobile",
-      "image#desktop"
+      "image#mobile"
     ]
   },
   
