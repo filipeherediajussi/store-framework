@@ -3,10 +3,7 @@
     "blocks": [
       "info-card#button-right",
       "info-card#button-left",
-      "flex-layout.row",
-      "info-card#rethink",
-      "image#electronics",
-      "image#major-appliance"
+      "flex-layout.row"
     ]
   },
 
