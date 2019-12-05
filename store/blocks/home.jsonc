@@ -103,7 +103,7 @@
     "props": {
       "text": "<h3># Your Coffee, Your Way</h3> \n <h4>### New Coffee Makers Collection</h4>",
       "textPosition": "CENTER",
-      "textAlignment": "CENTER",
+      "textAlignment": "CENTER"
     }
   },
   
