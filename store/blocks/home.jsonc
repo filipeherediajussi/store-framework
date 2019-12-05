@@ -3,7 +3,9 @@
     "blocks": [ 
       "rich-text",
       "info-card#button-right",
-      "info-card#button-left"
+      "info-card#button-left",
+      "flex-layout.row",
+      "flex-layout.col"
     ]
   },
   "rich-text": {
@@ -40,12 +42,12 @@
       "blockClass": "metal"
     }
   },
-  "flex-layout.row":{
+  "flex-layout.row": {
     "children": [
       "info-card"
     ]
   },
-  "flex-layout.col":{
+  "flex-layout.col": {
     "children": [
       "rich-text"
     ]
