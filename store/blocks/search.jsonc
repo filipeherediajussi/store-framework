@@ -13,12 +13,20 @@
     "children": [
       "breadcrumb.search",
       "search-title.v2",
+      "flex-layout.row#top",
       "search-fetch-previous",
+      "flex-layout.row#results",
       "search-fetch-more"
     ],
     "props": {
       "pagination": "show-more"
     }
+  },
+  "flex-layout.row#top": {
+    "children": [
+      "total-products.v2",
+      "order-by.v2"
+    ]
   },
   "flex-layout.row#results": {
     "children": [
