@@ -20,7 +20,9 @@
       "filter-navigator.v3",
       "search-fetch-more"
     ],
-    "pagination": "show-more",
-  "preventRouteChange": "true" 
+    "props": {
+      "pagination": "show-more",
+      "preventRouteChange": "true" 
+    }
   }
 }
