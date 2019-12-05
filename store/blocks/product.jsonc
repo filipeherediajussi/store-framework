@@ -53,14 +53,16 @@
     ]
   },
   "stack-layout#brand": {
-    "props": {
-      "height": 30
-    },
     "children": [
       "product-images",
       "product-brand"
     ]
   },
+  "product-brand": {
+    "props": {
+      "height": 30
+    }
+  }
   "sku-selector": {
     "props": {
       "initialSelection": false,
