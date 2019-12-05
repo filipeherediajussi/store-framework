@@ -3,7 +3,7 @@
     "children": [
       "breadcrumb",
       "flex-layout.row#main",
-      "flex-layout.row"
+      "flex-layout.row#qty-sku"
     ]
   },
 
