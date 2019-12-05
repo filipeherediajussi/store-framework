@@ -32,9 +32,9 @@
     },
     "children": [
       "product-name",
+      "product-identifier.product",
       "buy-button",
-      "product-price",
-      "product-identifier.product"
+      "product-price"
     ]
   },
   "product-price": {
