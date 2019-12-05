@@ -32,7 +32,7 @@
     "children": [
       "product-name",
       "product-price",
-      "but-button"
+      "buy-button"
     ]
   }
 }
