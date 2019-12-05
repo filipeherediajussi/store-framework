@@ -62,7 +62,7 @@
     "props": {
       "height": 30
     }
-  }
+  },
   "sku-selector": {
     "props": {
       "initialSelection": false,
